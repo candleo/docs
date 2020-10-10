@@ -61,3 +61,13 @@ Details Coming Soon
 ### Staking
 
 Details Coming Soon
+
+## Get Involved
+
+[GitHub](https://github.com/candleo)
+
+[Twitter](https://twitter.com/CandleoMoney)
+
+[Medium](https://medium.com/@candleo)
+
+[Telegram](https://t.me/Candleo_Money)

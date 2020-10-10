@@ -1,20 +1,25 @@
 # Candleo
 
-Introduction: Candleo is Superb Product. It works on Decentrelized Finance. Just like any other thing, decentralized gambling comes with its fair share of positives and negatives. More so now that it’s accessible to anyone who wishes to gamble on planet earth. Some say that the phenomenon is brilliant and those that are against its integration. The biggest downside is the addiction that many gamers face once they get hooked to gambling.
+Introduction: Candleo.money is a defi project aims to transfer total control of money in individuals hand. The Candleo.money simplies Bitcoin and Ethereum betting. The Players who wants to bet have to place their bet and amount to bet 6 hours before. The model is pretty simple- the opening price of 4 hour candle at 4PM UTC daily will decide the winner. Players need to put their bet on what will be the opening price of candle at that time. The player who predicts closest price will win the bet. If there are more than 1 individual who predict the correct price then there will be a random selection of winner among them with the help of bot.
 
-![](./img/img1.jpeg)
+<!-- ![](./img/img1.jpeg) -->
 
 ## Tokenomics
 
-| ALLOTED TO        |    Percentage to the Tota     |
-| ----------------- | :---------------------------: |
-| TOTAL SUPPLY      |       30000 CMO tokens        |
-| PUBLIC ALLOCATION | 50% of the total token supply |
-| UNISWAP LIQUIDITY | 18% of the total token supply |
-| LP REWARDS        | 16% of the total token supply |
-| ECOSYSTEM         | 12% of the total token supply |
-| RESERVE           | 3% of the total token supply  |
-| TEAM              | 1% of the total token supply  |
+| Sr. No. | Topic                        | Supply Details                |
+| ------- | ---------------------------- | ----------------------------- |
+| 1       | Total Supply                 | 340000 LEO tokens             |
+| 2       | Presale                      | 210000 LEO tokens / 500 ETH\* |
+| 3       | Uniswap Liquidity            | 70000 LEO tokens / 250 ETH    |
+| 4       | Liquidity Pool/Stake Rewards | 45000 LEO tokens              |
+| 5       | Airdrop                      | 15000 LEO tokens              |
+
+\*Note: Presale Details
+
+| Allocation |   No. of Tokens   | Hardcap | Rate (tokens/eth) |
+| ---------- | :---------------: | :-----: | :---------------: |
+| Presale 1  | 120000 LEO tokens | 250 ETH |  1 ETH = 480 LEO  |
+| Presale 2  | 90000 LEO tokens  | 250 ETH |  1 ETH = 360 LEO  |
 
 ## Services
 

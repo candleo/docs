@@ -34,7 +34,7 @@ Note: \*Presale and \*\*Uniswap details:
 | ----------------- | :---------------: | :-----: | :---------------: |
 | Presale 1         | 120000 LEO tokens | 250 ETH |  1 ETH = 480 LEO  |
 | Presale 2         | 90000 LEO tokens  | 250 ETH |  1 ETH = 360 LEO  |
-| Uniswap Liquidity | 70000 LEO tokens  | 250 ETH |  1 ETH = 280 LEO  |
+| Uniswap Liquidity | 70000 LEO tokens  |    -    |  1 ETH = 280 LEO  |
 
 ## Pumponomics Ecosystem
 
@@ -64,10 +64,10 @@ Details Coming Soon
 
 ## Get Involved
 
-[GitHub](https://github.com/candleo)
+[<i class="fab fa-github fa-2x"></i> GitHub](https://github.com/candleo)
 
-[Twitter](https://twitter.com/CandleoMoney)
+[<i class="fab fa-twitter fa-2x"></i> Twitter](https://twitter.com/CandleoMoney)
 
-[Medium](https://medium.com/@candleo)
+[<i class="fab fa-medium fa-2x"></i> Medium](https://medium.com/@candleo)
 
-[Telegram](https://t.me/Candleo_Money)
+[<i class="fab fa-telegram fa-2x"></i> Telegram](https://t.me/Candleo_Money)

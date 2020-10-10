@@ -25,7 +25,7 @@ Introduction: Candleo.money is a defi project aims to transfer total control of 
 
 #### Services to be bifurcated in 4 categories
 
-- Gambling
+- Betting
 - Staking
 - Pool
 - Mine/Harvesting

@@ -1,6 +1,6 @@
 # Introduction: Candleo
 
-ICandleo.money is a defi project aims to transfer total control of money in individuals hand. The Candleo.money simplies Bitcoin and Ethereum betting. The Players who wants to bet have to place their bet and amount to bet 6 hours before. The model is pretty simple- the opening price of 4 hour candle at 4PM UTC daily will decide the winner. Players need to put their bet on what will be the opening price of candle at that time. The player who predicts closest price will win the bet. If there are more than 1 individual who predict the correct price then there will be a random selection of winner among them with the help of bot.
+Candleo.money is a defi project aims to transfer total control of money in individuals hand. The Candleo.money simplies Bitcoin and Ethereum betting. The Players who wants to bet have to place their bet and amount to bet 6 hours before. The model is pretty simple- the opening price of 4 hour candle at 4PM UTC daily will decide the winner. Players need to put their bet on what will be the opening price of candle at that time. The player who predicts closest price will win the bet. If there are more than 1 individual who predict the correct price then there will be a random selection of winner among them with the help of bot.
 
 ## Contract Addresses:
 

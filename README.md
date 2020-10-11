@@ -1,14 +1,21 @@
 # Introduction: Candleo
 
-Candleo.money is a defi project aims to transfer total control of money in individuals hand. The Candleo.money simplies Bitcoin and Ethereum betting. The Players who wants to bet have to place their bet and amount to bet 6 hours before. The model is pretty simple- the opening price of 4 hour candle at 4PM UTC daily will decide the winner. Players need to put their bet on what will be the opening price of candle at that time. The player who predicts closest price will win the bet. If there are more than 1 individual who predict the correct price then there will be a random selection of winner among them with the help of bot.
+Candleo.money is a Defi project aims to transfer total control of money in individuals hand. The purpose of launching Candleo.money is that it simplifies Bitcoin and Ethereum betting. The Candleo platform will be used for games such as betting, spin the wheel, etc.
+
+The First product of the Candleo Platform that is " Bitcoin price prediction" will go live with in first week of the Uniswap listing.
+The model is pretty simple- the opening price of 4 hour candle at 4PM UTC daily will decide the winner. The Players who wants to bet have to place their bet and amount to bet 6 hours before.
+Players need to put their bet on what will be the opening price of candle at that time. The player who predicts closest price will win the bet.
+If there are more than 1 individual whose predictions are correct then there will be a random selection of winner among them with the help of bot .
 
 ## Contract Addresses:
 
-**Candleo Token**: coming soon
+COMING SOON
+
+<!-- **Candleo Token**: coming soon -->
 
 <!-- **Locked Candleo**: coming soon -->
 
-**Presale Round 1**: coming soon
+<!-- **Presale Round 1**: coming soon
 
 **Presale Round 2**: coming soon
 
@@ -16,7 +23,7 @@ Candleo.money is a defi project aims to transfer total control of money in indiv
 
 **UniSwap Trading Pair**: coming soon
 
-**Liquidity Locked Proof**: coming soon
+**Liquidity Locked Proof**: coming soon -->
 
 ## Tokenomics
 
@@ -47,10 +54,12 @@ Note: \*Presale and \*\*Uniswap details:
 
 ## Services
 
-#### Services to be bifurcated in 4 categories
+#### Services to be bifurcated in 2 categories
 
 - Betting
 - Staking
+
+coming soon with more services..
 
 ### Betting
 

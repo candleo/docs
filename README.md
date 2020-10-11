@@ -31,8 +31,8 @@ Note: \*Presale and \*\*Uniswap details:
 
 ## Pumponomics Ecosystem
 
-- Buy from Uniswap- Players can bet only using Candleo tokens. So there will be daily demand pressure for the tokens
-- Used on platform daily for betting, staking, fee burn.
+- Buy from Uniswap- Players can play only using Candleo tokens. So there will be daily demand pressure for the tokens
+- Used on platform daily for gaming, staking, fee burn.
 - Winner get winning amount in three installments
 
 <img src="./img/PUMPONOMICS.png" data-canonical-src="./img/PUMPONOMICS.png" width="512" height="512" />

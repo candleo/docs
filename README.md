@@ -7,6 +7,7 @@ The model is pretty simple- the opening price of 4 hour candle at 4PM UTC daily 
 Players need to predict what will be the opening price of candle at that time. The player who predicts closest price will win the game.
 If there are more than 1 individual whose predictions are correct then there will be a random selection of winner among them with the help of bot .
 
+<!--
 ## Contract Addresses:
 
 **LEO Token**: [0x56f7c2a441ccac31bd9e2ee232677d9265be390f](https://etherscan.io/token/0x56f7c2a441ccac31bd9e2ee232677d9265be390f)
@@ -45,14 +46,14 @@ Note: \*Presale and \*\*Uniswap details:
 - Used on platform daily for gaming, staking, fee burn.
 - Winner get winning amount in three installments
 
-<img src="./img/PUMPONOMICS.png" data-canonical-src="./img/PUMPONOMICS.png" width="512" height="512" />
+<img src="./img/PUMPONOMICS.png" data-canonical-src="./img/PUMPONOMICS.png" width="512" height="512" /> -->
 
 ## Services
 
 #### Services to be bifurcated in 2 categories
 
 - BTC Price Prediction
-- Staking
+<!-- - Staking -->
 
 coming soon with more services..
 
@@ -60,9 +61,34 @@ coming soon with more services..
 
 Details Coming Soon
 
-### Staking
+#### How To Play ?
 
-Details Coming Soon
+<!-- This Project is in Beta. Use at your own risk -->
+
+- Opening price of 4 hour candle of BTC at 4 PM UTC will decide
+  the winner of the session.
+
+- To participate you need to select the slot under which you
+  want to play according to your risk appetite.
+
+- Now you need to click on participate. After that now need to
+  predict the price of BTC .
+
+- After this approve and submit the prediction.
+
+- All the participants can see the predictions placed by other
+  participant when the slot closed down for prediction. This is
+  to ensure fairness in the game.
+
+- If more than one participant predict the same price then
+  winner will be selected randomly with the help of lottery
+  software.
+
+- Participants can check the history of each game.
+
+<!-- ### Staking
+
+Details Coming Soon -->
 
 ## Get Involved
 
